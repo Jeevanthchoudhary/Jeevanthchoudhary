@@ -1,69 +1,101 @@
-CARD = """<svg xmlns="http://www.w3.org/2000/svg"
-width="520"
-height="330">
+import os
 
-<style>
-text{
-font-family:Consolas,monospace;
-fill:#d0d0d0;
-font-size:18px;
-}
+def create_info_card():
+    svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 450" width="650" height="450">
+    <style>
+        .terminal-bg { fill: #0d1117; }
+        .terminal-border { stroke: #30363d; stroke-width: 2; fill: none; }
+        .title-bar { fill: #161b22; }
+        .mac-close { fill: #ff5f56; }
+        .mac-min { fill: #ffbd2e; }
+        .mac-max { fill: #27c93f; }
+        .title-text { font: 13px monospace; fill: #8b949e; text-anchor: middle; }
+        .header { font: bold 18px monospace; fill: #58a6ff; }
+        .key { font: bold 14px monospace; fill: #3fb950; }
+        .value { font: 14px monospace; fill: #c9d1d9; }
+        .separator { font: 14px monospace; fill: #8b949e; }
+        .highlight { font: 14px monospace; fill: #e3b341; }
+    </style>
+    
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze" />
+        
+        <!-- Terminal Window -->
+        <rect width="648" height="448" x="1" y="1" rx="10" class="terminal-bg" />
+        <rect width="648" height="448" x="1" y="1" rx="10" class="terminal-border" />
+        
+        <!-- Title Bar -->
+        <path d="M 1 11 Q 1 1 11 1 L 639 1 Q 649 1 649 11 L 649 35 L 1 35 Z" class="title-bar" />
+        <path d="M 1 35 L 649 35" class="terminal-border" />
+        
+        <!-- Window Controls -->
+        <circle cx="20" cy="18" r="6" class="mac-close" />
+        <circle cx="40" cy="18" r="6" class="mac-min" />
+        <circle cx="60" cy="18" r="6" class="mac-max" />
+        <text x="325" y="23" class="title-text">jeevanth@ubuntu: ~</text>
 
-.title{
-fill:#39d353;
-font-size:22px;
-font-weight:bold;
-}
+        <!-- Neofetch Header -->
+        <text x="30" y="75" class="header">jeevanthchoudhary@github</text>
+        <text x="30" y="90" class="separator">------------------------</text>
 
-.line{
-opacity:0;
-animation:fade .4s forwards;
-}
+        <!-- Info Fields -->
+        <text x="30" y="125" class="key">Name</text>
+        <text x="120" y="125" class="separator">~</text>
+        <text x="140" y="125" class="value">B Jeevanth</text>
 
-@keyframes fade{
-from{opacity:0;transform:translateX(20px);}
-to{opacity:1;transform:translateX(0);}
-}
-</style>
+        <text x="30" y="155" class="key">Role</text>
+        <text x="120" y="155" class="separator">~</text>
+        <text x="140" y="155" class="value">AI &amp; Full Stack Developer</text>
 
-<rect width="100%" height="100%" fill="#0d1117"/>
+        <text x="30" y="185" class="key">College</text>
+        <text x="120" y="185" class="separator">~</text>
+        <text x="140" y="185" class="value">Narayana Engineering College, Gudur</text>
 
-<text x="20" y="35" class="title">jeevanth@github</text>
-"""
+        <text x="30" y="215" class="key">Location</text>
+        <text x="120" y="215" class="separator">~</text>
+        <text x="140" y="215" class="value">Andhra Pradesh, India</text>
 
-rows = [
-    ("Name", "B Jeevanth"),
-    ("Role", "AI & Full Stack Developer"),
-    ("College", "NEC Gudur"),
-    ("Location", "Andhra Pradesh"),
-    ("Projects", "SentinelEdu"),
-    ("Projects", "Opportunity Radar"),
-    ("OSS", "FOSSASIA Contributor"),
-    ("Frontend", "React, Tailwind"),
-    ("Backend", "FastAPI, Node.js"),
-    ("Languages", "Python, JavaScript, C++"),
-    ("Database", "PostgreSQL, Firebase"),
-    ("AI/ML", "TensorFlow, OpenCV"),
-    ("Dream", "Building AI for Millions")
-]
+        <text x="30" y="245" class="key">Building</text>
+        <text x="120" y="245" class="separator">~</text>
+        <text x="140" y="245" class="value">Opportunity Radar, SentinelEdu</text>
 
-y = 70
+        <text x="30" y="275" class="key">Stack</text>
+        <text x="120" y="275" class="separator">~</text>
+        <text x="140" y="275" class="value">React, Tailwind CSS, FastAPI, Node.js,</text>
+        <text x="140" y="295" class="value">Python, JavaScript, C++, PostgreSQL,</text>
+        <text x="140" y="315" class="value">Firebase, TensorFlow, OpenCV</text>
 
-for i, (k, v) in enumerate(rows):
-    CARD += f'''
-<text
-x="20"
-y="{y}"
-class="line"
-style="animation-delay:{i*0.2}s">
-{k:<12}: {v}
-</text>
-'''
-    y += 22
+        <text x="30" y="345" class="key">Dream</text>
+        <text x="120" y="345" class="separator">~</text>
+        <text x="140" y="345" class="highlight">Build world-class AI startups.</text>
 
-CARD += "</svg>"
+        <!-- Neofetch Color Blocks -->
+        <rect x="30" y="375" width="15" height="15" fill="#30363d" />
+        <rect x="45" y="375" width="15" height="15" fill="#ff5f56" />
+        <rect x="60" y="375" width="15" height="15" fill="#27c93f" />
+        <rect x="75" y="375" width="15" height="15" fill="#ffbd2e" />
+        <rect x="90" y="375" width="15" height="15" fill="#58a6ff" />
+        <rect x="105" y="375" width="15" height="15" fill="#bc8cff" />
+        <rect x="120" y="375" width="15" height="15" fill="#8b949e" />
+        <rect x="135" y="375" width="15" height="15" fill="#c9d1d9" />
 
-with open("info-card.svg", "w", encoding="utf-8") as f:
-    f.write(CARD)
+        <!-- Terminal Prompt -->
+        <text x="30" y="425" class="key">jeevanth@ubuntu</text>
+        <text x="155" y="425" class="separator">:</text>
+        <text x="165" y="425" class="header" font-size="14">~</text>
+        <text x="175" y="425" class="separator">$</text>
+        <rect x="190" y="412" width="8" height="16" fill="#c9d1d9">
+            <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+        </rect>
+    </g>
+</svg>"""
+    
+    out_path = "info-card.svg"
+    
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(svg_content)
+        
+    print(f"Successfully generated {out_path}")
 
-print("info-card.svg created")
+if __name__ == "__main__":
+    create_info_card()
