@@ -1,5 +1,3 @@
-<div align="center">
-
 # > Initializing Jeevanth...
 
 ```bash
@@ -18,9 +16,3 @@ AI-powered Campus Safety & Emergency Response Platform.
 
 ⚡ Tech Stack
 Python • React • FastAPI • JavaScript • PostgreSQL • TensorFlow • OpenCV
-
-
-
-
-
-
