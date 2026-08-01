@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="520"
+height="330">
+
+<style>
+text{
+font-family:Consolas,monospace;
+fill:#d0d0d0;
+font-size:18px;
+}
+
+.title{
+fill:#39d353;
+font-size:22px;
+font-weight:bold;
+}
+
+.line{
+opacity:0;
+animation:fade .4s forwards;
+}
+
+@keyframes fade{
+from{opacity:0;transform:translateX(20px);}
+to{opacity:1;transform:translateX(0);}
+}
+</style>
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<text x="20" y="35" class="title">jeevanth@github</text>
+
+<text
+x="20"
+y="70"
+class="line"
+style="animation-delay:0.0s">
+Name        : B Jeevanth
+</text>
+
+<text
+x="20"
+y="92"
+class="line"
+style="animation-delay:0.2s">
+Role        : AI & Full Stack Developer
+</text>
+
+<text
+x="20"
+y="114"
+class="line"
+style="animation-delay:0.4s">
+College     : NEC Gudur
+</text>
+
+<text
+x="20"
+y="136"
+class="line"
+style="animation-delay:0.6000000000000001s">
+Location    : Andhra Pradesh
+</text>
+
+<text
+x="20"
+y="158"
+class="line"
+style="animation-delay:0.8s">
+Projects    : SentinelEdu
+</text>
+
+<text
+x="20"
+y="180"
+class="line"
+style="animation-delay:1.0s">
+Projects    : Opportunity Radar
+</text>
+
+<text
+x="20"
+y="202"
+class="line"
+style="animation-delay:1.2000000000000002s">
+OSS         : FOSSASIA Contributor
+</text>
+
+<text
+x="20"
+y="224"
+class="line"
+style="animation-delay:1.4000000000000001s">
+Frontend    : React, Tailwind
+</text>
+
+<text
+x="20"
+y="246"
+class="line"
+style="animation-delay:1.6s">
+Backend     : FastAPI, Node.js
+</text>
+
+<text
+x="20"
+y="268"
+class="line"
+style="animation-delay:1.8s">
+Languages   : Python, JavaScript, C++
+</text>
+
+<text
+x="20"
+y="290"
+class="line"
+style="animation-delay:2.0s">
+Database    : PostgreSQL, Firebase
+</text>
+
+<text
+x="20"
+y="312"
+class="line"
+style="animation-delay:2.2s">
+AI/ML       : TensorFlow, OpenCV
+</text>
+
+<text
+x="20"
+y="334"
+class="line"
+style="animation-delay:2.4000000000000004s">
+Dream       : Building AI for Millions
+</text>
+</svg>

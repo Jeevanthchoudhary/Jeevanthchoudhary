@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jeevanthchoudhary/Jeevanthchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# > Initializing Jeevanth...
 
-Here are some ideas to get you started:
+```bash
+✔ Loading AI Stack...
+✔ Loading Projects...
+✔ Loading GitHub Activity...
+✔ Done.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## $ whoami
+
+<table>
+<tr>
+<td valign="top">
+
+<img src="./avi-ascii.svg" width="350"/>
+
+</td>
+
+<td valign="top">
+
+<img src="./info-card.svg" width="500"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 Opportunity Radar
+AI-powered platform to discover Hackathons, Internships, Jobs, Scholarships and Opportunities before deadlines.
+
+### 🛡 SentinelEdu
+AI-powered Campus Safety & Emergency Response Platform.
+
+---
+
+## ⚡ Tech Stack
+
+Python • React • FastAPI • JavaScript • PostgreSQL • TensorFlow • OpenCV
+
+</div>

@@ -1,0 +1,532 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="620"
+height="533"
+viewBox="0 0 620 533"
+style="background:black">
+
+<style>
+text {
+font-family: Consolas, monospace;
+font-size:8px;
+fill:#d0d0d0;
+}
+
+@keyframes typing {
+from {opacity:0;transform:translateX(-20px);}
+to {opacity:1;transform:translateX(0);}
+}
+</style>
+
+<text
+x="10"
+y="15"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.0s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="24"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.03s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="33"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.06s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++***#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="42"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.09s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@###*+=-:::::::-:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="51"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.12s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*=--=-:::::::::::::-=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="60"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.15s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=:--:::::::::::::-::::--=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="69"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.18s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=-:::::::::::::.:::::::-----*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="78"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.21s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+:::::........:...::..:.:::::--*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="87"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.24s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+............................:-:-+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="96"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.27s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-..............:.............:::-:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="105"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.3s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-:...........:--==--:..........::::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="114"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.32999999999999996s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@+......:----==++++++==---:......:::-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="123"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.36s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.....-===+++++++++++++++=-.......:+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="132"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.39s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=....===++++************++-......:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="141"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.42s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#...:=+++************++++++-....::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="150"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.44999999999999996s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-..:=++++++++**++=-:--===++=...:=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="159"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.48s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:.:=---:::-==+=--::::---=+*-.:=+=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="168"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.51s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.:==--:.:::=*+=-:-=-==++**+.-=++*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="177"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.54s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+::+=-=----=+**+++++++*****+:=+=+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="186"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.57s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%==:++++===+++##***********++-+***@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="195"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.6s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*=-=*****+++*###*********+++=***@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="204"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.63s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*+=++****++++++==+**+++++++=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="213"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.6599999999999999s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+=+++++*=------+**++++++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="222"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.69s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*+++++++=--=====--=+++==*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="231"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.72s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=+=::-===============*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="240"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.75s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+===========+++=====+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="249"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.78s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+==++=====+++==---=++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="258"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.8099999999999999s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=--=+++++++=----==++*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="267"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.84s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*----------::--==+++*%**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="276"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.87s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#==-::::.:::-===++++*@#:=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="285"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.8999999999999999s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*#====-------====+++*@@*::-+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="294"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.9299999999999999s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+-%*=====--====+++=+#@@%-::::-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="303"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.96s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=.-%%*=========++=+*%@@@+.:::::::-=+*#%@@@@@@@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="312"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:0.99s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=-::.:%%%#+-=======+*%@@@@#:.::::::::::::--=+*#%@@@@@@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="321"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.02s;">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+-::::::..*%%%%#+-====*%@@@@@%=..:::::::::::::::::--=+*#%@@@@@@@@@@%..
+</text>
+
+<text
+x="10"
+y="330"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.05s;">
+@@@@@@@@@@@@@@@@@@@@@@@@#*+-::.::::::...=%%%%@@#+++%@@@@@@%*:...::::::..:::::::::::::--=+*#@@@@@@%..
+</text>
+
+<text
+x="10"
+y="339"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.08s;">
+@@@@@@@@@@@@@@@@@@@%#+=-:::::::..:::::..=#%@%#+----=*%@@@@%-.::::::....:::::::::::::::::::--=+%@@%..
+</text>
+
+<text
+x="10"
+y="348"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.1099999999999999s;">
+@@@@@@@@@@@@@@@%#+--::::::::::::..:.::..=%%#=:-----:.:+#@@+.::::::::::::::::::::::::::::::::::-%@%..
+</text>
+
+<text
+x="10"
+y="357"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.14s;">
+@@@@@@@@@@@@@@+::::::::::::.:::::::.....=%#===:---::-=**#*:.:::::::::::..::::::::::::::::::::::-@%..
+</text>
+
+<text
+x="10"
+y="366"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.17s;">
+@@@@@@@@@@@@@+:::::::::::::.:::::::.....-#####=--::+#%%%%-.:::::::::::..::::::::::::::.......:::*%..
+</text>
+
+<text
+x="10"
+y="375"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.2s;">
+@@@@@@@@@@@@%:::::::::::::::.::::.......-#%%%%=:-:-%%%%%*:.:::::::::::.:::::::::..:::........:::=#..
+</text>
+
+<text
+x="10"
+y="384"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.23s;">
+@@@@@@@@@@@@+.:..:::::::::::..:::.......-#%%%*---::*%%%%-.:.::::::::..::::::::::::..........:..::*..
+</text>
+
+<text
+x="10"
+y="393"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.26s;">
+@@@@@@@@@@@%::....:::::::::::.::........-#%%#-:--::=%%@*.....::::::..::::::::::................::=..
+</text>
+
+<text
+x="10"
+y="402"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.29s;">
+@@@@@@@@@@@+::......:::::::::.:..:......:#%%=:------#%%-...:::::::....:::::::...................:-..
+</text>
+
+<text
+x="10"
+y="411"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.3199999999999998s;">
+@@@@@@@@@@@-:.......:::..::::...:.......:#%#--------*@+....:::::::..:...........................::..
+</text>
+
+<text
+x="10"
+y="420"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.3499999999999999s;">
+@@@@@@@@@@*::...........::.:............:#@+:-------*%:....::::::..:............................::..
+</text>
+
+<text
+x="10"
+y="429"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.38s;">
+@@@@@@@@@@-.:...........:::::............*%=:-------*=.....:::::...:::..:........................:..
+</text>
+
+<text
+x="10"
+y="438"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.41s;">
+@@@@@@@@@%:.:.........::::...............+%---------+:.....::::....::...............................
+</text>
+
+<text
+x="10"
+y="447"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.44s;">
+@@@@@@@@@+..:............::..:..:........=#:--------:......:::......................................
+</text>
+
+<text
+x="10"
+y="456"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.47s;">
+@@@@@@@@@-.......................:.......-+:-------:........:.......................................
+</text>
+
+<text
+x="10"
+y="465"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.5s;">
+@@@@@@@@@:...............................:=:-------:.......:........................................
+</text>
+
+<text
+x="10"
+y="474"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.53s;">
+@@@@@@@@%:................................:::-----:.................................................
+</text>
+
+<text
+x="10"
+y="483"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.56s;">
+@@@@@@@@#::................................::-----:.................................................
+</text>
+
+<text
+x="10"
+y="492"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.5899999999999999s;">
+@@@@@@@@+.:................................:-----::.................................................
+</text>
+
+<text
+x="10"
+y="501"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.6199999999999999s;">
+@@@@@@@@-.::...............................::----:..................................................
+</text>
+
+<text
+x="10"
+y="510"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.65s;">
+@@@@@@@%:..................................:::---:..................................................
+</text>
+
+<text
+x="10"
+y="519"
+style="opacity:0;
+animation:typing .3s forwards;
+animation-delay:1.68s;">
+@@@@@@@*....................................:---:...................................................
+</text>
+</svg>
